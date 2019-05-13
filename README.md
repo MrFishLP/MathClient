@@ -1,2 +1,2 @@
 # MathClient
-Fibonacci Sequence is an example of cpp (C++) and dll.
+Fibonacci Sequence is an example of cpp (C++) and dll (MathLibrary).
